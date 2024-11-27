@@ -22,7 +22,7 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Filmes Jogos Vorazes',
+            text: 'Bilheteria dos filmes Jogos Vorazes',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
